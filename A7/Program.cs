@@ -12,7 +12,7 @@ namespace A7
         {
             int choice = 1;
             string x = "5";
-            string str;
+            string str
             var funcs = new Features();
 
             List<string> dinosaurs = new List<string>();
