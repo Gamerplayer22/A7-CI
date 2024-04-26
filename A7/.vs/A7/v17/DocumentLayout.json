@@ -35,7 +35,7 @@
               "RelativeDocumentMoniker": "..\\A7Tests\\FeaturesTests.cs",
               "ToolTip": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7Tests\\FeaturesTests.cs",
               "RelativeToolTip": "..\\A7Tests\\FeaturesTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBMAAAAgAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T21:04:57.105Z",
               "EditorCaption": ""
@@ -50,7 +50,8 @@
               "RelativeToolTip": "Features.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T21:01:29.015Z"
+              "WhenOpened": "2024-04-26T21:01:29.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,7 +63,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T20:59:50.681Z"
+              "WhenOpened": "2024-04-26T20:59:50.681Z",
+              "EditorCaption": ""
             }
           ]
         }

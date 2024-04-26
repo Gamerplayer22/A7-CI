@@ -20,5 +20,19 @@ namespace A7.Tests
             Assert.IsNotNull(r);
             Assert.IsFalse(r > 11);
         }
+        [TestMethod()]
+        public void randomnumberTest2()
+        {
+            var fun = new Features();
+            var r = fun.randomnumber();
+            Assert.IsNotNull(r);
+        }
+        [TestMethod()]
+        public void randomnumberTest3()
+        {
+            var fun = new Features();
+            var r = fun.randomnumber();
+            Assert.IsFalse(r > 11);
+        }
     }
 }
