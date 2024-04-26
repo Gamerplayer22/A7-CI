@@ -3,7 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D866A28E-6D78-4A6A-8483-DD2A11520E08}|A7.csproj|c:\\users\\dsu\\source\\repos\\gamerplayer22\\a7-ci\\a7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC11C5CF-D7FB-429C-8843-81A9A1FCC5F7}|..\\A7Tests\\A7Tests.csproj|c:\\users\\dsu\\source\\repos\\gamerplayer22\\a7-ci\\a7tests\\featurestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D866A28E-6D78-4A6A-8483-DD2A11520E08}|A7.csproj|C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D866A28E-6D78-4A6A-8483-DD2A11520E08}|A7.csproj|solutionrelative:features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D866A28E-6D78-4A6A-8483-DD2A11520E08}|A7.csproj|C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D866A28E-6D78-4A6A-8483-DD2A11520E08}|A7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,15 +30,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FeaturesTests.cs",
+              "DocumentMoniker": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7Tests\\FeaturesTests.cs",
+              "RelativeDocumentMoniker": "..\\A7Tests\\FeaturesTests.cs",
+              "ToolTip": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7Tests\\FeaturesTests.cs",
+              "RelativeToolTip": "..\\A7Tests\\FeaturesTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:04:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Features.cs",
+              "DocumentMoniker": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\Features.cs",
+              "RelativeDocumentMoniker": "Features.cs",
+              "ToolTip": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\Features.cs",
+              "RelativeToolTip": "Features.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:01:29.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\DSU\\source\\repos\\Gamerplayer22\\A7-CI\\A7\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T20:59:50.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T20:59:50.681Z"
             }
           ]
         }
