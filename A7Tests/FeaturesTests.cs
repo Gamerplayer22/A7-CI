@@ -16,10 +16,9 @@ namespace A7.Tests
         {
             var fun = new Features();
             var r = fun.randomnumber();
-            var g = false;
-            Assert.IsTrue(g); 
+            Assert.IsTrue(r>=1 && r<=10); 
         }
-   /*     [TestMethod()]
+        [TestMethod()]
         public void randomnumberTest2()
         {
             var fun = new Features();
@@ -32,6 +31,6 @@ namespace A7.Tests
             var fun = new Features();
             var r = fun.randomnumber();
             Assert.IsFalse(r > 11);
-        }*/
+        }
     }
 }
