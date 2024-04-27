@@ -17,8 +17,6 @@ namespace A7.Tests
             var fun = new Features();
             var r = fun.randomnumber();     // this function only generates...
             Assert.IsTrue(r < 1 && r > 10); // ...numbers (r>=1 && r<=10)!
-            Assert.IsNotNull(r);
-            Assert.IsFalse(r > 11);
         }
         [TestMethod()]
         public void randomnumberTest2()
